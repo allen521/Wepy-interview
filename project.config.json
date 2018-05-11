@@ -1,0 +1,13 @@
+{
+  "description": "Mindex候选人面试签到助手",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "gh_6f144b0c5015",
+  "projectname": "resume",
+  "miniprogramRoot": "./dist"
+}
